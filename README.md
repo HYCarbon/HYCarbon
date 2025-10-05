@@ -41,9 +41,8 @@
 
 ### 👁️ 主页访问量
 
-<tool_call>
-{"name": "search_image", "arguments": {"prompt": "Profile views"}}
-</tool_call>
+![Profile Views](https://komarev.com/ghpvc/?username=HYCarbon&color=blueviolet&style=flat)
+
 
 ---
 
