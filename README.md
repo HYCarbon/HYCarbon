@@ -1,8 +1,3 @@
-<!-- 
-  仓库名：ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧
-  个人主页 README - 最后更新：2025-10-05
--->
-
 <h1 align="center">ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧</h1>
 <h3 align="center">💻 Windows Enthusiast | Microsoft Ecosystem Developer | HONOR Power User</h3>
 
@@ -38,17 +33,17 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <image height="160em" src="https://github-readme-stats.vercel.app/api?username=ℍ𝕐%20𝐂𝐚𝐫𝐛𝐨𝐧&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <image height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ℍ𝕐%20𝐂𝐚𝐫𝐛𝐨𝐧&layout=compact&theme=radical" />
+  <image height="160em" src="https://github-readme-stats.vercel.app/api?username=HYCarbon&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <image height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HYCarbon&layout=compact&theme=radical" />
 </p>
 
 ---
 
 ### 👁️ 主页访问量
 
-<p align="center">
-  <image src="https://komarev.com/ghpvc/?username=ℍ𝕐%20𝐂𝐚𝐫𝐛𝐨𝐧&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+<tool_call>
+{"name": "search_image", "arguments": {"prompt": "Profile views"}}
+</tool_call>
 
 ---
 
