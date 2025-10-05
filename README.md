@@ -1,5 +1,5 @@
 <h1 align="center">ℍ𝕐 𝐂𝐚𝐫𝐛𝐨𝐧</h1>
-<h3 align="center">💻 Windows Enthusiast | Microsoft Ecosystem Developer | HONOR Power User</h3>
+<h3 align="center">💻 Windows Enthusiast | Microsoft 365 Developer | HONOR User</h3>
 
 <p align="center">
   <a href="mailto:HY_Carbon@outlook.com">
