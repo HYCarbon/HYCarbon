@@ -15,7 +15,7 @@
     <image src="https://img.shields.io/badge/Microsoft%20365-Productivity-0078D6?logo=microsoft&logoColor=white" alt="Microsoft 365">
   </a>
   <a href="https://www.hihonor.com/">
-    <image src="https://img.shields.io/badge/HONOR-Smart%20Devices-FF4500?logo=android&logoColor=white" alt="HONOR">
+    <image src="https://img.shields.io/badge/HONOR-User-FF4500?logo=android&logoColor=white" alt="HONOR">
   </a>
   <a href="https://b23.tv/s1sofBG">
     <image src="https://img.shields.io/badge/Bilibili-关注我-blue?logo=bilibili&logoColor=white" alt="Bilibili">
